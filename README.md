@@ -21,9 +21,11 @@
 ###
 
 ## ⭐ GitHub Stats
-<a href="https://github.com/gmourazz">
+
+<div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gmourazz&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmourazz&layout=compact&langs_count=6&theme=radical"/>
+</div>
 
 ## 📚 Meus estudos
 Estou constantemente aprendendo e aplicando novos conceitos através de projetos práticos.  
