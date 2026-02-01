@@ -22,10 +22,10 @@
 
 ## ⭐ GitHub Stats
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gmourazz&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmourazz&layout=compact&langs_count=6&theme=radical"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gmourazz&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmourazz&layout=compact&langs_count=6&theme=radical" alt="Top Languages" height="180em"/>
+</p>
 
 ## 📚 Meus estudos
 Estou constantemente aprendendo e aplicando novos conceitos através de projetos práticos.  
