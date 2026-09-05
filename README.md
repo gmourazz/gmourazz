@@ -1,7 +1,7 @@
 # 💜 Olá, eu sou a Geovanna!
 <p align="left">
   Desenvolvedora de Software em formação, comprometida a criar soluções modernas, funcionais e com propósito. <br>
- Tenho focado meus estudos em <strong>JavaScript</strong>, <strong>React.js</strong>, <strong>Node.js</strong> e <strong>TypeScript</strong>, com o objetivo de transformar cada aprendizado em projetos reais ao longo da minha jornada em Engenharia de Software.
+ Tenho focado meus estudos em <strong>JavaScript</strong>, <strong>React.js</strong>, <strong>Node.js</strong>, <strong>Golang</strong> e <strong>TypeScript</strong>, com o objetivo de transformar cada aprendizado em projetos reais ao longo da minha jornada em Engenharia de Software.
 </p>
 
 ## Sobre mim
