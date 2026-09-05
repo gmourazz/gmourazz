@@ -1,13 +1,13 @@
 # 💜 Olá, eu sou a Geovanna!
 <p align="left">
-  Desenvolvedora Frontend em formação, comprometida a criar soluções modernas, funcionais e com propósito. <br>
+  Desenvolvedora de Software em formação, comprometida a criar soluções modernas, funcionais e com propósito. <br>
  Tenho focado meus estudos em <strong>JavaScript</strong>, <strong>React.js</strong>, <strong>Node.js</strong> e <strong>TypeScript</strong>, com o objetivo de transformar cada aprendizado em projetos reais ao longo da minha jornada em Engenharia de Software.
 </p>
 
 ## Sobre mim
 
 - 🎓 Graduanda em Engenharia de Software
-- 📚 Estudando JavaScript, React.js, Node.js, TypeScript e desenvolvimento fullstack
+- 📚 Estudando JavaScript, React.js, Node.js, TypeScript, Golang e desenvolvimento fullstack
 - 🌍 Explorando novas tecnologias e desenvolvendo soluções criativas.
 - ❤️ Apaixonada por tecnologia e sempre buscando aprender mais
 
